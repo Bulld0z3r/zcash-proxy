@@ -2,6 +2,8 @@
 
 ZCash and ZClassic mining stratum with Web interface.
 
+[Latest stable release](https://github.com/sammy007/zcash-proxy/releases).
+
 ### Features
 
 * Your personal solo ZCash & ZClassic stratum
