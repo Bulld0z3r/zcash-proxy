@@ -37,6 +37,7 @@ Just copy *config.example.json* to *config.json* and specify stratum endpoint UR
   "coinbase": "t1K9CtKh4rZXEVfjhNovozLeLysyx9AwYrH",
 
   "frontend": {
+    // Web-UI host:port
     "listen": "0.0.0.0:8080",
     "login": "admin",
     "password": "",
@@ -76,6 +77,10 @@ Just copy *config.example.json* to *config.json* and specify stratum endpoint UR
 #### Sharding
 
 If you want to run many proxy instances with a single daemon use unique `nonceOffset` per instance.
+
+#### Stats API
+
+All the stats are available in JSON format at `http://your.host:8080/stats` URI. Change `your.host` to a frontend hostname or IP address.
 
 #### DevFee
 
