@@ -84,7 +84,7 @@ All the stats are available in JSON format at `http://your.host:8080/stats` URI.
 
 #### DevFee
 
-This proxy charges `2.5%` devfee. Fee is a part of coinbase transaction.
+This proxy charges `2.0%` devfee. Fee is a part of coinbase transaction.
 
 ## Copyright
 
