@@ -88,6 +88,6 @@ This proxy charges `2.0%` devfee. Fee is a part of coinbase transaction.
 
 ## Copyright
 
-Copyright &copy; 2016 sammy007.
+Copyright &copy; 2017 sammy007.
 
 This is proprietary software. No warranty, explicit or implicit, provided. Reverse engineering, redistribution, repackaging are not allowed.
